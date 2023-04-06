@@ -1,5 +1,5 @@
 # Data Lovers
-
+12
 ## 1. Definición del producto
 
 El presente proyecto nos muestra una interfaz enfocada en la presentación de las producciones de Studios Ghibli, la cual estará dirigida a usuarios y/o fans interesados en conocer más acerca de estas producciones y creadores.
