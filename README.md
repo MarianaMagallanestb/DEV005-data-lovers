@@ -1,5 +1,4 @@
 # Data Lovers
-12
 ## 1. Definición del producto
 
 El presente proyecto nos muestra una interfaz enfocada en la presentación de las producciones de Studios Ghibli, la cual estará dirigida a usuarios y/o fans interesados en conocer más acerca de estas producciones y creadores.
@@ -72,4 +71,4 @@ La página web deberá ser amigable a la percepción visual del usuario, por lo 
 * Se hizo responsive para múltiples dispositivos.
 
 **3.3 Link de página:**
-
+https://marianamagallanestb.github.io/DEV005-data-lovers/src/
